@@ -1,7 +1,7 @@
 
 interface ProdutoProps {
     params: {
-        produtoId: string
+        produtoId: number
     }
 }
 
